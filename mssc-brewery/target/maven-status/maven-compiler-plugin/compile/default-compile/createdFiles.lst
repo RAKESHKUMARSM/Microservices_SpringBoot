@@ -1,0 +1,6 @@
+com\rockygeek\msscbrewery\web\services\BeerServicesImpl.class
+com\rockygeek\msscbrewery\web\model\BeerDto$BeerDtoBuilder.class
+com\rockygeek\msscbrewery\web\model\controller\BeerController.class
+com\rockygeek\msscbrewery\MsscBreweryApplication.class
+com\rockygeek\msscbrewery\web\services\BeerService.class
+com\rockygeek\msscbrewery\web\model\BeerDto.class
